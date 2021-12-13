@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "go to home",
+      "day": "16 Jan 2020",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "to school",
+      "day": "16 Jan 2020",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "market tomorow",
+      "day": "16 Jan 2020",
+      "reminder": true
+    }
+  ]
+}
